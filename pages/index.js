@@ -117,7 +117,7 @@ const Home = ()=>{
         onClick={signOutUser}
       >
         <GoSignOut size={18} />
-        <span>Logout</span>
+        <span>LogOut</span>
       </div>
       <div className="max-w-3xl mx-auto mt-10 p-8">
         <div className="bg-white -m-6 p-3 sticky top-0">
